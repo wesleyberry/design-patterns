@@ -1,0 +1,12 @@
+A design patterns describes how you should coordinate your classes
+
+Design patterns fall into 3 categories:
+    Creational
+    Structural
+    Behavioral  
+
+Coupling describes how much a class is dependent upon another class
+    car and tire analogy
+
+Interfaces - a contract that specifies the capabilities that a class should provide
+    Restaurant and chef analogy
