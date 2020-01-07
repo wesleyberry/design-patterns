@@ -20,3 +20,5 @@ Abstraction - reduce complexity by hiding unnecessary details
 Inheritance - inheriting properties from other classes
 
 Polymorphism - the ability of an object to take on many objects
+
+UML - Unified Modeling Language - language used to model systems
