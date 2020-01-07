@@ -16,3 +16,5 @@ Encapsulation - used to hide values or state inside of a class
 Abstraction - reduce complexity by hiding unnecessary details
     DVR analogy
     Remote control analogy
+
+Inheritance - inheriting properties from other classes
