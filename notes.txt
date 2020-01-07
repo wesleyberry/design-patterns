@@ -18,3 +18,5 @@ Abstraction - reduce complexity by hiding unnecessary details
     Remote control analogy
 
 Inheritance - inheriting properties from other classes
+
+Polymorphism - the ability of an object to take on many objects
