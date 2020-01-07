@@ -10,3 +10,6 @@ Coupling describes how much a class is dependent upon another class
 
 Interfaces - a contract that specifies the capabilities that a class should provide
     Restaurant and chef analogy
+
+Encapsulation - used to hide values or state inside of a class
+
