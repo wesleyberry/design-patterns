@@ -13,3 +13,6 @@ Interfaces - a contract that specifies the capabilities that a class should prov
 
 Encapsulation - used to hide values or state inside of a class
 
+Abstraction - reduce complexity by hiding unnecessary details
+    DVR analogy
+    Remote control analogy
